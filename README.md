@@ -8,4 +8,7 @@ This is a Kodi repository for a few addons:
 - service.subtitles.addic7ed : Kodi subtitles addon to fetch subtitles from addic7ed.com
 - service.subtitles.tvsubtitles : Kodi subtitles addon to fetch subtitles from tvsubtitles.com
 
+Just install latest zip version into kodi addons
+
 Enjoy!
+
